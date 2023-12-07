@@ -4,7 +4,7 @@ I am an Undergraduate Computer Science and Science and Technology Studies major 
 ## [PeakSynth](https://github.com/owennjpr/PeakSynth-Audio-Plugin)
 - An audio plugin created with the JUCE framework, capable of interfacing with any Digital Audio Workstation.
 - A mix between a synthesizer and a sampler that uses IIR filtering to "play" an audio file with MIDI.
-- User MIDI input is converted into a series of peak filters at frequencies corresponding to the notes being played. Depending on the character of the audio file being used, this can lead to lots of variety of outcomes.
+- User MIDI input is converted into a series of peak filters at frequencies corresponding to the notes being played. Depending on the character of the audio file being used, this can lead to a variety of outcomes.
 
 ## [Owlhead](https://github.com/gmccar05/owlhead)
 - Part of an ongoing research project with the Tufts University Human Factors IDEA Lab.
