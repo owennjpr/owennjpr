@@ -14,6 +14,12 @@ I am an Undergraduate Computer Science and Science and Technology Studies major 
 ## [Lumina (Unity Game)](https://github.com/owennjpr/Summer2023Game)
 - Working with [asendlakowski](https://github.com/asendlakowski) to build a 3D first-person exploration and puzzle game in Unity which will begin playtesting shortly.
 
+## Other
+### [Freebites](https://github.com/freebites/product)
+- A mobile app for connecting users with free food in their area.
+- I joined this team recently to help finish a release build of the app by the end of the summer.
+### [Charity Search](https://github.com/owennjpr/JumboHack2024_CharitySearch)
+- Simple website built for the Tufts JumboHack hackathon with the aim of connecting users to accredited charities.
 
 <!--
 **owennjpr/owennjpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
