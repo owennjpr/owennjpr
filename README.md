@@ -11,7 +11,7 @@ I am an Undergraduate Computer Science and Science and Technology Studies major 
 - Experimenting with alterations to perception in VR, including field of view increase, and accelerated turning rate.
 - This repository consists of virtual test environments in the Unity Game Engine where we record user experiences and performance.
 
-## [Untitled Unity Project](https://github.com/owennjpr/Summer2023Game)
+## [Lumina (Unity Game)](https://github.com/owennjpr/Summer2023Game)
 - Working with [asendlakowski](https://github.com/asendlakowski) to build a 3D first-person exploration and puzzle game in Unity which will begin playtesting shortly.
 
 
