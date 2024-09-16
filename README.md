@@ -1,6 +1,11 @@
 # Hi I'm Owen (he/him)
 I am an Undergraduate Computer Science and Science and Technology Studies major at Tufts University from Seattle, Washington. I'm passionate about software development, music, and games and you can find some of the projects I've been working on here. These include:
 
+## [COEQWAL Water Management Simulation](https://github.com/owennjpr/COEQWAL-WebGame)
+- a web based data visualization tool, aimed at helping the average person better understand the challenges of managing California's water infrastructure.
+- Built with Node.js, Express, postgreSQL, Javascript, and EJS/React.
+- The current development build is hosted [here](https://coeqwal-webgame.onrender.com/). (it may take a few seconds to load when you open it for the first time)
+
 ## [PeakSynth](https://github.com/owennjpr/PeakSynth-Audio-Plugin)
 - An audio plugin created with the JUCE framework, capable of interfacing with any Digital Audio Workstation.
 - A mix between a synthesizer and a sampler that uses IIR filtering to "play" an audio file with MIDI.
@@ -17,7 +22,7 @@ I am an Undergraduate Computer Science and Science and Technology Studies major 
 ## Other
 ### [Freebites](https://github.com/freebites/product)
 - A mobile app for connecting users with free food in their area.
-- I joined this team recently to help finish a release build of the app by the end of the summer.
+- built using React Native and Expo
 ### [Charity Search](https://github.com/owennjpr/JumboHack2024_CharitySearch)
 - Simple website built for the Tufts JumboHack hackathon with the aim of connecting users to accredited charities.
 
