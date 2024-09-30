@@ -20,8 +20,8 @@ I am an Undergraduate Computer Science and Science and Technology Studies major 
 - Working with [asendlakowski](https://github.com/asendlakowski) to build a 3D first-person exploration and puzzle game in Unity which will begin playtesting shortly.
 
 ## Other
-### Shredasaurus
-- Unity game developed for the DinoJam 4 game jam
+### [Shredasaurus](https://owennjpr.itch.io/shredasaurus)
+- Unity game developed with a team of 5 for the DinoJam 4 game jam
 - Rated 5th out of 26 submissions
 ### [Charity Search](https://github.com/owennjpr/JumboHack2024_CharitySearch)
 - Simple website built for the Tufts JumboHack hackathon with the aim of connecting users to accredited charities.
