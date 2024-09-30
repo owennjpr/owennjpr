@@ -20,9 +20,8 @@ I am an Undergraduate Computer Science and Science and Technology Studies major 
 - Working with [asendlakowski](https://github.com/asendlakowski) to build a 3D first-person exploration and puzzle game in Unity which will begin playtesting shortly.
 
 ## Other
-### [Freebites](https://github.com/freebites/product)
-- A mobile app for connecting users with free food in their area.
-- built using React Native and Expo
+### Shredasaurus
+- Unity game developed for the DinoJam 4 game jam
 ### [Charity Search](https://github.com/owennjpr/JumboHack2024_CharitySearch)
 - Simple website built for the Tufts JumboHack hackathon with the aim of connecting users to accredited charities.
 
