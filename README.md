@@ -22,6 +22,7 @@ I am an Undergraduate Computer Science and Science and Technology Studies major 
 ## Other
 ### Shredasaurus
 - Unity game developed for the DinoJam 4 game jam
+- Rated 5th out of 26 submissions
 ### [Charity Search](https://github.com/owennjpr/JumboHack2024_CharitySearch)
 - Simple website built for the Tufts JumboHack hackathon with the aim of connecting users to accredited charities.
 
