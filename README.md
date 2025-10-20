@@ -1,12 +1,27 @@
 # Hi I'm Owen (he/him)
-I am a recent graduate from Tufts University with a BS in Computer Science and Science, Technology, and Society (STS), originally from Seattle, Washington. My work focuses on web development, audio, and software designed for social impact. Check out my [portfolio](https://owennjpr.github.io/portfolio/) for a more in depth and up to date look at what I've been up to!
+I am a recent graduate from Tufts University with a BS in Computer Science and Science, Technology, and Society (STS), originally from Seattle, Washington. My work focuses on web development, audio, and software designed for social impact. Check out my [portfolio](https://owennjpr.github.io/portfolio/) for a more in depth look at what I've been up to, or just take a look at some of my current projects here!
 
-## Some Projects
+## I'm Currently Working On
+### [Freebites](https://www.freebites.org/)
+- A mobile app helping college students find free food opportunities on campus.
+- Developing feature updates, optimizations, and building out our web presence with [freebites.org](https://www.freebites.org/)
+
+### [Dynamic Text](https://github.com/owennjpr/Dynamic-Text)
+- An open source React library for ascii based text animations.
+- While the end goal is to create an npm package, you can see current examples of different effects and code snippets [here](https://dynamic-text-tau.vercel.app/).
+- If you want to contribute and make your own effects feel free to make a PR and I'll take a look!
+
+### [formerly.me](https://formerly.me/)
+- A living website and web art project showcasing my original music including some algorithmic musical compositions ([Macrobiome](https://formerly.me/macrobiome), [Tone Garden](https://formerly.me/tonegarden)) built with React, TypeScript, and the web audio API
+
 ### [COEQWAL Water Management Simulation](https://github.com/owennjpr/COEQWAL-WebGame)
-- a web based data visualization tool, aimed at helping the average person better understand the challenges of managing California's water infrastructure.
+- A web based data visualization tool, aimed at helping the average person better understand the challenges of managing California's water infrastructure.
 - Built with Node.js, Express, postgreSQL, Javascript, and EJS/React.
-- The current development build is hosted [here](https://coeqwal-webgame.onrender.com/). (it may take a few seconds to load when you open it for the first time)
+- The current development build is [here](https://cal-water-vis.vercel.app/).
 
+
+
+<!--
 ### [PeakSynth](https://github.com/owennjpr/PeakSynth-Audio-Plugin)
 - An audio plugin created with the JUCE framework, capable of interfacing with any Digital Audio Workstation.
 - A mix between a synthesizer and a sampler that uses IIR filtering to "play" an audio file with MIDI.
@@ -25,6 +40,7 @@ I am a recent graduate from Tufts University with a BS in Computer Science and S
 - Working with [asendlakowski](https://github.com/asendlakowski) to build a 3D first-person exploration and puzzle game in Unity which will begin playtesting shortly.
 #### [Charity Search](https://github.com/owennjpr/JumboHack2024_CharitySearch)
 - Simple website built for the Tufts JumboHack hackathon with the aim of connecting users to accredited charities.
+-->
 
 <!--
 **owennjpr/owennjpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
