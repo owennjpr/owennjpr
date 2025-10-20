@@ -1,4 +1,11 @@
-# Hi I'm Owen (he/him)
+      _    _ _     _____ _              ____                     _ 
+     | |  | (_)   |_   _( )            / __ \                   | |
+     | |__| |_      | | |/ _ __ ___   | |  | |_      _____ _ __ | |
+     |  __  | |     | |   | '_ ` _ \  | |  | \ \ /\ / / _ \ '_ \| |
+     | |  | | |_   _| |_  | | | | | | | |__| |\ V  V /  __/ | | |_|
+     |_|  |_|_( ) |_____| |_| |_| |_|  \____/  \_/\_/ \___|_| |_(_)
+              |/                                                   
+                                                                                                                                                                                  
 I am a recent graduate from Tufts University with a BS in Computer Science and Science, Technology, and Society (STS), originally from Seattle, Washington. My work focuses on web development, audio, and software designed for social impact. Check out my [portfolio](https://owennjpr.github.io/portfolio/) for a more in depth look at what I've been up to, or just take a look at some of my current projects here!
 
 ## I'm Currently Working On
