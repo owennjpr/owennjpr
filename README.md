@@ -13,8 +13,8 @@ I am a recent graduate from Tufts University with a BS in Computer Science and S
 - A mobile app helping college students find free food opportunities on campus.
 - Developing feature updates, optimizations, and building out our web presence with [freebites.org](https://www.freebites.org/)
 
-### [Dynamic Text](https://github.com/owennjpr/Dynamic-Text)
-- An open source React library for ascii based text animations.
+### [Char-Mo](https://github.com/owennjpr/Char-Mo)
+- An open source React library for ascii character based text animations.
 - While the end goal is to create an npm package, you can see current examples of different effects and code snippets [here](https://dynamic-text-tau.vercel.app/).
 - If you want to contribute and make your own effects feel free to make a PR and I'll take a look!
 
