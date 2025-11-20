@@ -1,12 +1,6 @@
-      _    _ _     _____ _              ____                     _ 
-     | |  | (_)   |_   _( )            / __ \                   | |
-     | |__| |_      | | |/ _ __ ___   | |  | |_      _____ _ __ | |
-     |  __  | |     | |   | '_ ` _ \  | |  | \ \ /\ / / _ \ '_ \| |
-     | |  | | |_   _| |_  | | | | | | | |__| |\ V  V /  __/ | | |_|
-     |_|  |_|_( ) |_____| |_| |_| |_|  \____/  \_/\_/ \___|_| |_(_)
-              |/                                                   
-                                                                                                                                                                                  
-I am a recent graduate from Tufts University with a BS in Computer Science and Science, Technology, and Society (STS), originally from Seattle, Washington. My work focuses on web development, audio, and software designed for social impact. Check out my [portfolio](https://owennjpr.github.io/portfolio/) for a more in depth look at what I've been up to, or just take a look at some of my current projects here!
+Hi I'm Owen Prendergast!
+
+I am a recent graduate from Tufts University with a BS in Computer Science and Science, Technology, and Society (STS), originally from Seattle, Washington. My work focuses on web development, audio, and software designed for social impact. Check out my new [portfolio](https://owen-prendergast.vercel.app/) (in progress) for a more in depth look at what I've been up to, or just take a look at some of my current projects and involvements here!
 
 ## I'm Currently Working On
 ### [Freebites](https://www.freebites.org/)
@@ -15,7 +9,7 @@ I am a recent graduate from Tufts University with a BS in Computer Science and S
 
 ### [Char-Motion](https://github.com/owennjpr/char-motion)
 - An open source npm package for ascii character based text animations.
-- If you want to contribute and make your own effects feel free to make a PR and I'll take a look!
+- If you want to make your own effects feel free to make a PR and I'll take a look!
 
 ### [formerly.me](https://formerly.me/)
 - A living website and web art project showcasing my original music including some algorithmic musical compositions ([Macrobiome](https://formerly.me/macrobiome), [Tone Garden](https://formerly.me/tonegarden)) built with React, TypeScript, and the web audio API
@@ -25,7 +19,7 @@ I am a recent graduate from Tufts University with a BS in Computer Science and S
 - Built with Node.js, Express, postgreSQL, Javascript, and EJS/React.
 - The current development build is [here](https://cal-water-vis.vercel.app/).
 
-
+If you want to reach out, shoot me an email at owenprendergast8@gmail.com!
 
 <!--
 ### [PeakSynth](https://github.com/owennjpr/PeakSynth-Audio-Plugin)
