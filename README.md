@@ -11,9 +11,6 @@ I am a recent graduate from Tufts University with a BS in Computer Science and S
 - An open source npm package for ascii character based text animations.
 - If you want to make your own effects feel free to make a PR and I'll take a look!
 
-### [formerly.me](https://formerly.me/)
-- A living website and web art project showcasing my original music including some algorithmic musical compositions ([Macrobiome](https://formerly.me/macrobiome), [Tone Garden](https://formerly.me/tonegarden)) built with React, TypeScript, and the web audio API
-
 ### [COEQWAL Water Management Simulation](https://github.com/owennjpr/COEQWAL-WebGame)
 - A web based data visualization tool, aimed at helping the average person better understand the challenges of managing California's water infrastructure.
 - Built with Node.js, Express, postgreSQL, Javascript, and EJS/React.
@@ -22,6 +19,10 @@ I am a recent graduate from Tufts University with a BS in Computer Science and S
 If you want to reach out, shoot me an email at owenprendergast8@gmail.com!
 
 <!--
+### [formerly.me](https://formerly.me/)
+- A living website and web art project showcasing my original music including some algorithmic musical compositions ([Macrobiome](https://formerly.me/macrobiome), [Tone Garden](https://formerly.me/tonegarden)) built with React, TypeScript, and the web audio API
+
+
 ### [PeakSynth](https://github.com/owennjpr/PeakSynth-Audio-Plugin)
 - An audio plugin created with the JUCE framework, capable of interfacing with any Digital Audio Workstation.
 - A mix between a synthesizer and a sampler that uses IIR filtering to "play" an audio file with MIDI.
