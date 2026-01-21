@@ -1,15 +1,19 @@
 Hi I'm Owen!
 
-I am a recent graduate from Tufts University with a BS in Computer Science and Science, Technology, and Society (STS), originally from Seattle, Washington. My work focuses on web development, audio, and software designed for social impact. Check out my new [portfolio](https://owen-prendergast.vercel.app/) (in progress) for a more in depth look at what I've been up to, or just take a look at some of my current projects and involvements here!
+I am a recent graduate from Tufts University with a BS in Computer Science and Science, Technology, and Society (STS), originally from Seattle, Washington, currently working as an FDE at Aurelian. My work focuses on web development, audio, and software designed for social impact. Check out my new [portfolio](https://owen-prendergast.vercel.app/) (in progress) for a more in depth look at what I've been up to, or just take a look at some of my current projects and involvements here!
 
 ## I'm Currently Working On
+### [Char-Motion](https://github.com/owennjpr/char-motion)
+- An open source npm package for ascii character based text animations.
+- If you want to make your own effects feel free to make a PR and I'll take a look!
+
 ### [Freebites](https://www.freebites.org/)
 - A mobile app helping college students find free food opportunities on campus.
 - Developing feature updates, optimizations, and building out our web presence with [freebites.org](https://www.freebites.org/)
 
-### [Char-Motion](https://github.com/owennjpr/char-motion)
-- An open source npm package for ascii character based text animations.
-- If you want to make your own effects feel free to make a PR and I'll take a look!
+
+
+<!--
 
 ### [COEQWAL Water Management Simulation](https://github.com/owennjpr/COEQWAL-WebGame)
 - A web based data visualization tool, aimed at helping the average person better understand the challenges of managing California's water infrastructure.
@@ -18,7 +22,6 @@ I am a recent graduate from Tufts University with a BS in Computer Science and S
 
 If you want to reach out, shoot me an email at owenprendergast8@gmail.com!
 
-<!--
 ### [formerly.me](https://formerly.me/)
 - A living website and web art project showcasing my original music including some algorithmic musical compositions ([Macrobiome](https://formerly.me/macrobiome), [Tone Garden](https://formerly.me/tonegarden)) built with React, TypeScript, and the web audio API
 
