@@ -1,4 +1,5 @@
 Hi I'm Owen!
+<!--
 
 I am a recent graduate from Tufts University with a BS in Computer Science and Science, Technology, and Society (STS), originally from Seattle, Washington, currently working as an FDE at Aurelian. My work focuses on web development, audio, and software designed for social impact. Check out my new [portfolio](https://owen-prendergast.vercel.app/) (in progress) for a more in depth look at what I've been up to, or just take a look at some of my current projects and involvements here!
 
@@ -13,7 +14,6 @@ I am a recent graduate from Tufts University with a BS in Computer Science and S
 
 
 
-<!--
 
 ### [COEQWAL Water Management Simulation](https://github.com/owennjpr/COEQWAL-WebGame)
 - A web based data visualization tool, aimed at helping the average person better understand the challenges of managing California's water infrastructure.
